@@ -1,7 +1,7 @@
 ### ## Olá! Eu sou o Paulo-tech1! 👋
 
 
-- 🔭 No momento estou trabalhando como Analista de TI
+- 🔭 Estou trabalhando como Analista de TI
 - 🌱 Estudando JavaScript
 - 👯 Procuro me tornar um Desenvolvedor front-end 
 
