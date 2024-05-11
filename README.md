@@ -1,8 +1,8 @@
 ### ## Olá! Eu sou o Paulo-tech1! 👋
 
 - 🔭 Estou trabalhando como Técnico em informática
-- 🌱 Estudando JavaScript
-- 👯 Procuro me tornar um Desenvolvedor front-end
+- 🌱 Estudando Ciência de dados
+- 👯 Procuro me tornar o cientista de dados
 - 📫 contacte-me no email: pauloroberto.redes@gmail.com
 
 <div align="center">
