@@ -1,7 +1,8 @@
 ### ## Olá! Eu sou o Paulo-tech1! 👋
 
 - 🔭 Estou trabalhando como Técnico em informática
-- 🌱 Estudando Ciência de dados
+- 🌱 Graduado Ciência de dados
+- 🌱 Fazendo Pós Graduação Ciência de dados
 - 👯 Procuro me tornar o cientista de dados
 - 📫 contacte-me no email: pauloroberto.redes@gmail.com
 
