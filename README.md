@@ -1,9 +1,9 @@
 # Olá, eu sou Paulo Roberto! 👋
 
-[Estou trabalhando como Analista sistemas
-Graduado Ciência de computação
+Estou trabalhando como Analista sistemas
+sou Graduado em Ciência de computação
 Pós Graduação Ciência de dados
-Procuro me tornar o melhor cientista de dados]
+Procuro me tornar o melhor cientista de dados
 
 ## 🛠 Tecnologias e Ferramentas
 <div style="display: inline_block">
